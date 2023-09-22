@@ -43,5 +43,5 @@ function removeFirstCat() {
     if (cats.length === 0) {
         return[];
     }
-    return cats.slice(1);
-}
+    return cats.slice(1); 
+} 
